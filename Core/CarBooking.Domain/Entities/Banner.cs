@@ -13,5 +13,6 @@ namespace CarBooking.Domain.Entities
         public string Description { get; set; }
         public string VideoDescription { get; set; }
         public string VideUrl { get; set; }
+        //zbab
     }
 }
